@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/mikeryan/crackle
+	branch = master
+	commit = 3e9319648498185c1198fde32a08c83266de9587
+	parent = a5f9ba1d1fcef7869c263cdf0eeced02b279a7bb
+	cmdver = 0.2.0
