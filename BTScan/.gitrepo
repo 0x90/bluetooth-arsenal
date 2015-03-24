@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/mboyd/BTScan
+	branch = master
+	commit = 903c509ce68c8d787194c5db7354b6329a329918
+	parent = 62f4584acb58adda165464a109b71eb89e7f4220
+	cmdver = 0.2.0
