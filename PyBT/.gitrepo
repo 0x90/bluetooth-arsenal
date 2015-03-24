@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/mikeryan/PyBT
+	branch = master
+	commit = 74f1e5dc01dd367b08a9a3ddcfecacff9980bdd5
+	parent = 0e855e5b7e116faf30a72a4ebd9d40faf08f86fa
+	cmdver = 0.2.0
