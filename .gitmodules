@@ -1,0 +1,12 @@
+[submodule "MiniBeacon"]
+	path = MiniBeacon
+	url = https://github.com/RedBearLab/MiniBeacon
+[submodule "hackrf_ble"]
+	path = hackrf_ble
+	url = https://github.com/vkchettimada/hackrf_ble
+[submodule "ubertooth-scripts"]
+	path = ubertooth-scripts
+	url = https://github.com/mountainraptor/ubertooth-scripts
+[submodule "pyubertooth"]
+	path = pyubertooth
+	url = https://github.com/hackgnar/pyubertooth
