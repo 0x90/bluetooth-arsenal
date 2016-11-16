@@ -10,3 +10,6 @@
 [submodule "pyubertooth"]
 	path = pyubertooth
 	url = https://github.com/hackgnar/pyubertooth
+[submodule "bigtooth"]
+	path = bigtooth
+	url = https://github.com/pcgeller/bigtooth
