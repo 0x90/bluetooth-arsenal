@@ -13,3 +13,12 @@
 [submodule "bigtooth"]
 	path = bigtooth
 	url = https://github.com/pcgeller/bigtooth
+[submodule "BLESuite"]
+	path = BLESuite
+	url = https://github.com/nccgroup/BLESuite
+[submodule "btlejuice"]
+	path = btlejuice
+	url = https://github.com/DigitalSecurity/btlejuice
+[submodule "btlejuice-python-bindings"]
+	path = btlejuice-python-bindings
+	url = https://github.com/DigitalSecurity/btlejuice-python-bindings
