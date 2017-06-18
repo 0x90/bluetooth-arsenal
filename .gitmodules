@@ -22,3 +22,9 @@
 [submodule "btlejuice-python-bindings"]
 	path = btlejuice-python-bindings
 	url = https://github.com/DigitalSecurity/btlejuice-python-bindings
+[submodule "BLE-Security"]
+	path = BLE-Security
+	url = https://github.com/merculite/BLE-Security
+[submodule "btproxy"]
+	path = btproxy
+	url = https://github.com/conorpp/btproxy
