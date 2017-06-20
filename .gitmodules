@@ -28,3 +28,12 @@
 [submodule "btproxy"]
 	path = btproxy
 	url = https://github.com/conorpp/btproxy
+[submodule "Bluelog"]
+	path = Bluelog
+	url = https://github.com/MS3FGX/Bluelog
+[submodule "bt_rng"]
+	path = bt_rng
+	url = https://github.com/MS3FGX/bt_rng
+[submodule "Bluefog"]
+	path = Bluefog
+	url = https://github.com/MS3FGX/Bluefog
