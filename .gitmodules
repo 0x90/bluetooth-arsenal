@@ -40,3 +40,6 @@
 [submodule "BLESniffer_Python"]
 	path = BLESniffer_Python
 	url = https://github.com/vshymanskyy/BLESniffer_Python
+[submodule "wireshark-nordic-ble-lua"]
+	path = wireshark-nordic-ble-lua
+	url = https://github.com/tewarid/wireshark-nordic-ble-lua
