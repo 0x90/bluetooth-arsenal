@@ -37,3 +37,6 @@
 [submodule "Bluefog"]
 	path = Bluefog
 	url = https://github.com/MS3FGX/Bluefog
+[submodule "BLESniffer_Python"]
+	path = BLESniffer_Python
+	url = https://github.com/vshymanskyy/BLESniffer_Python
