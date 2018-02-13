@@ -79,3 +79,6 @@
 [submodule "ssn"]
 	path = ssn
 	url = https://github.com/AquaL1te/ssn
+[submodule "BTBandit"]
+	path = BTBandit
+	url = https://github.com/TheAlbatross279/BTBandit
