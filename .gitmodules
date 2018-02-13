@@ -46,3 +46,36 @@
 [submodule "btle-sniffer"]
 	path = btle-sniffer
 	url = https://github.com/scipag/btle-sniffer
+[submodule "bleah"]
+	path = bleah
+	url = https://github.com/evilsocket/bleah
+[submodule "HackRF-CUDA-Bluetooth-Sniffer"]
+	path = HackRF-CUDA-Bluetooth-Sniffer
+	url = https://github.com/estradjm/HackRF-CUDA-Bluetooth-Sniffer
+[submodule "bluepot"]
+	path = bluepot
+	url = https://github.com/andrewmichaelsmith/bluepot
+[submodule "CVE-2017-0785"]
+	path = CVE-2017-0785
+	url = https://github.com/ojasookert/CVE-2017-0785
+[submodule "blueborne"]
+	path = blueborne
+	url = https://github.com/pieterbork/blueborne
+[submodule "sdp-leak-it"]
+	path = sdp-leak-it
+	url = https://github.com/Sydpy/sdp-leak-it
+[submodule "ubertooth"]
+	path = ubertooth
+	url = https://github.com/greatscottgadgets/ubertooth
+[submodule "BLESuite-CLI"]
+	path = BLESuite-CLI
+	url = https://github.com/nccgroup/BLESuite-CLI
+[submodule "BLE-Replay"]
+	path = BLE-Replay
+	url = https://github.com/nccgroup/BLE-Replay
+[submodule "blue_hydra"]
+	path = blue_hydra
+	url = https://github.com/pwnieexpress/blue_hydra
+[submodule "ssn"]
+	path = ssn
+	url = https://github.com/AquaL1te/ssn
