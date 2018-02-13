@@ -43,3 +43,6 @@
 [submodule "wireshark-nordic-ble-lua"]
 	path = wireshark-nordic-ble-lua
 	url = https://github.com/tewarid/wireshark-nordic-ble-lua
+[submodule "btle-sniffer"]
+	path = btle-sniffer
+	url = https://github.com/scipag/btle-sniffer
