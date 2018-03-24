@@ -82,3 +82,6 @@
 [submodule "BTBandit"]
 	path = BTBandit
 	url = https://github.com/TheAlbatross279/BTBandit
+[submodule "gattacker"]
+	path = gattacker
+	url = https://github.com/securing/gattacker
