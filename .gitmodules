@@ -85,3 +85,6 @@
 [submodule "gattacker"]
 	path = gattacker
 	url = https://github.com/securing/gattacker
+[submodule "BTLE"]
+	path = BTLE
+	url = https://github.com/JiaoXianjun/BTLE
