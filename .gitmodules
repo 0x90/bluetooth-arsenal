@@ -100,3 +100,12 @@
 [submodule "bias"]
 	path = bias
 	url = https://github.com/francozappa/bias
+[submodule "btlejack"]
+	path = btlejack
+	url = https://github.com/virtualabs/btlejack
+[submodule "frankenstein"]
+	path = frankenstein
+	url = https://github.com/seemoo-lab/frankenstein
+[submodule "polypyus"]
+	path = polypyus
+	url = https://github.com/seemoo-lab/polypyus
