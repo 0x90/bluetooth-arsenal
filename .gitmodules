@@ -109,3 +109,6 @@
 [submodule "polypyus"]
 	path = polypyus
 	url = https://github.com/seemoo-lab/polypyus
+[submodule "blueborne-scanner"]
+	path = blueborne-scanner
+	url = https://github.com/hook-s3c/blueborne-scanner
