@@ -88,3 +88,15 @@
 [submodule "BTLE"]
 	path = BTLE
 	url = https://github.com/JiaoXianjun/BTLE
+[submodule "ble"]
+	path = ble
+	url = https://github.com/go-ble/ble
+[submodule "internalblue"]
+	path = internalblue
+	url = https://github.com/seemoo-lab/internalblue
+[submodule "knob"]
+	path = knob
+	url = https://github.com/francozappa/knob
+[submodule "bias"]
+	path = bias
+	url = https://github.com/francozappa/bias
