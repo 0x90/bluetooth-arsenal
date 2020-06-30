@@ -115,3 +115,24 @@
 [submodule "Ubertooth-Kismet-Wireshark"]
 	path = Ubertooth-Kismet-Wireshark
 	url = https://github.com/kanika2296/Ubertooth-Kismet-Wireshark
+[submodule "bluetooth-track"]
+	path = bluetooth-track
+	url = https://github.com/FrancescoErmini/bluetooth-track
+[submodule "BluetoothDetection"]
+	path = BluetoothDetection
+	url = https://github.com/corbanvilla/BluetoothDetection
+[submodule "bluetooth-sniffer-jammer"]
+	path = bluetooth-sniffer-jammer
+	url = https://github.com/sopan-sarkar/bluetooth-sniffer-jammer
+[submodule "Bluethon"]
+	path = Bluethon
+	url = https://github.com/Jean13/Bluethon
+[submodule "sparrow-wifi"]
+	path = sparrow-wifi
+	url = https://github.com/ghostop14/sparrow-wifi
+[submodule "uberducky"]
+	path = uberducky
+	url = https://github.com/mikeryan/uberducky
+[submodule "spectool-web"]
+	path = spectool-web
+	url = https://github.com/acg/spectool-web
