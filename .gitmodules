@@ -112,3 +112,6 @@
 [submodule "blueborne-scanner"]
 	path = blueborne-scanner
 	url = https://github.com/hook-s3c/blueborne-scanner
+[submodule "Ubertooth-Kismet-Wireshark"]
+	path = Ubertooth-Kismet-Wireshark
+	url = https://github.com/kanika2296/Ubertooth-Kismet-Wireshark
