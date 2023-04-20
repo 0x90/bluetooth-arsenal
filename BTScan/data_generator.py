@@ -1,6 +1,6 @@
 
 import math,time,random
-import data_packet, config
+import data_packet
 
 class DataGenerator():
     """class used to get pseudo-random data in order to test tracking algorithms"""
@@ -34,22 +34,7 @@ class DataGenerator():
 
 class CircleDataGenerator(DataGenerator):
     
-    def __init__(self, error, radius):
-        DataGenerator.__init__(self, error)
-        self.mac = "CircleDataGenerator"
-
-        self.radius = radius
-        
-        self.theta = 0
-        self.last_update = time.time()
-        
-    def get_position(self):
-
-        elapsed = time.time() - self.last_update
-        self.last_update = time.time()
-        self.theta += 2*elapsed
-
-        x = self.radius * (math.cos(self.theta) + 1)
+    .cos(self.theta) + 1)
         y = self.radius * (math.sin(self.theta) + 1)
         
         return (x, y)
