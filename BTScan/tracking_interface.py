@@ -10,13 +10,12 @@ class App:
         
         self.root = Tk()
 
-        self.frame = Frame(self.root,width=800,height=800)
+        self.frame = Frame(self.root,width=80,height=80)
         self.frame.pack()
         
        
         self.MainMenu()
         self.SideFrame()
-        self.MainCanvas()
         
         self.device_list = dict()   # GUI elements for devices
         
